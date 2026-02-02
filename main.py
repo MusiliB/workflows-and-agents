@@ -57,7 +57,7 @@ def generate_x_post(topic: str) -> str:
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.0-flash", # Note: Verify specific model version (2.0 vs 1.5 vs 2.5)
+            model="gemini-2.0-flash", 
             contents=prompt
         )
 

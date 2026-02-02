@@ -1,10 +1,10 @@
 [
     {
-        "heading": "The End of Dashboards and Design Systems",
-        "body": "      Design systems were built to scale manual interface creation. They’re now content fodder for AI. The perfect worker for parsing components, outlining specs, and shuffling identical boxes around. One that doesn’t complain about the boring parts of it all.     Now it’s starting to kill them off.        Imagine building yet another form that looks like all the other forms (Hi Jakob’s law!). This is as refreshing as competitive clicking accept on cookie banners."
+        "topic": "The End of Dashboards and Design Systems",
+        "post": "      Design systems were built to scale manual interface creation. They’re now content fodder for AI. The perfect worker for parsing components, outlining specs, and shuffling identical boxes around. One that doesn’t complain about the boring parts of it all.     Now it’s starting to kill them off.        Imagine building yet another form that looks like all the other forms (Hi Jakob’s law!). This is as refreshing as competitive clicking accept on cookie banners."
     },
     {
-        "heading": "    6 Spring Boot Caching Techniques for High-Traffic APIs in 2026",
-        "body": "Hight traffic APIs can experience performance bottlenecks without proper caching strategies. In this post, we explore six effective Spring Boot caching techniques to optimize your API performance in 2026. From in-memory caching with Ehcache to distributed caching with Redis, we cover the pros and cons of each method. Learn how to implement these techniques to reduce latency, improve response times, and enhance user experience for your high-traffic applications."
+        "topic": "    6 Spring Boot Caching Techniques for High-Traffic APIs in 2026",
+        "post": "Hight traffic APIs can experience performance bottlenecks without proper caching strategies. In this post, we explore six effective Spring Boot caching techniques to optimize your API performance in 2026. From in-memory caching with Ehcache to distributed caching with Redis, we cover the pros and cons of each method. Learn how to implement these techniques to reduce latency, improve response times, and enhance user experience for your high-traffic applications."
     }
 ]
